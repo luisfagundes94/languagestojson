@@ -1,0 +1,152 @@
+[
+  {
+    "id": "30cb0fb5-09da-4e71-8edf-03027f9bbff3",
+    "name": "Bulgarian",
+    "nativeName": "български език",
+    "code": "bg"
+  },
+  {
+    "id": "56c1c1f7-45dd-4ea9-9449-d1977971c77b",
+    "name": "Chinese",
+    "nativeName": "中文 (Zhōngwén), 汉语, 漢語",
+    "code": "zh"
+  },
+  {
+    "id": "0bd49e25-bdef-421f-bdef-8a778de39cbb",
+    "name": "Czech",
+    "nativeName": "česky, čeština",
+    "code": "cs"
+  },
+  {
+    "id": "feca8d7d-1a82-45b0-8f31-9185283c8a12",
+    "name": "Danish",
+    "nativeName": "dansk",
+    "code": "da"
+  },
+  {
+    "id": "fee12b94-b9d3-46d0-b5fe-cec78a0b352d",
+    "name": "Dutch",
+    "nativeName": "Nederlands, Vlaams",
+    "code": "nl"
+  },
+  {
+    "id": "d4d5d87e-c0a1-4f35-bb81-5f2709e628aa",
+    "name": "English",
+    "nativeName": "English",
+    "code": "en"
+  },
+  {
+    "id": "698697ac-b48b-4456-8516-bf39d57b9f3f",
+    "name": "Estonian",
+    "nativeName": "eesti, eesti keel",
+    "code": "et"
+  },
+  {
+    "id": "e7509ef2-3d3b-4df1-b4fb-b847baac2fa5",
+    "name": "Finnish",
+    "nativeName": "suomi, suomen kieli",
+    "code": "fi"
+  },
+  {
+    "id": "872a1a20-5f74-428b-8656-93b58db43c87",
+    "name": "French",
+    "nativeName": "français, langue française",
+    "code": "fr"
+  },
+  {
+    "id": "c95460fd-a1d3-4280-9e17-490d663cd7cd",
+    "name": "German",
+    "nativeName": "Deutsch",
+    "code": "de"
+  },
+  {
+    "id": "ec7b1f75-dd30-4752-aa10-c8c329bf16b6",
+    "name": "Greek, Modern",
+    "nativeName": "Ελληνικά",
+    "code": "el"
+  },
+  {
+    "id": "7be72699-ab27-48ff-a60f-aadef7572c71",
+    "name": "Hungarian",
+    "nativeName": "Magyar",
+    "code": "hu"
+  },
+  {
+    "id": "a222fa7d-7eef-4d07-bf42-cfe469cf51b0",
+    "name": "Italian",
+    "nativeName": "Italiano",
+    "code": "it"
+  },
+  {
+    "id": "1c7888e1-0d45-4aa8-8193-a51c0995c2d6",
+    "name": "Japanese",
+    "nativeName": "日本語 (にほんご／にっぽんご)",
+    "code": "ja"
+  },
+  {
+    "id": "b1aa115a-885c-4f16-9e91-6871a7be6021",
+    "name": "Lithuanian",
+    "nativeName": "lietuvių kalba",
+    "code": "lt"
+  },
+  {
+    "id": "e91b1046-8430-4d92-9aa7-8bde2fc7aeba",
+    "name": "Latvian",
+    "nativeName": "latviešu valoda",
+    "code": "lv"
+  },
+  {
+    "id": "9ee070e5-d972-47dc-b974-d5e7fdb53061",
+    "name": "Maltese",
+    "nativeName": "Malti",
+    "code": "mt"
+  },
+  {
+    "id": "68984cc0-66dc-479c-9380-ae28f31890a4",
+    "name": "Polish",
+    "nativeName": "polski",
+    "code": "pl"
+  },
+  {
+    "id": "06305ea0-5ab9-4b2d-bebc-c99e93bc5d59",
+    "name": "Portuguese",
+    "nativeName": "Português",
+    "code": "pt"
+  },
+  {
+    "id": "3342f6f2-758d-43b7-b6aa-f0f5c955fbb2",
+    "name": "Romanian, Moldavian, Moldovan",
+    "nativeName": "română",
+    "code": "ro"
+  },
+  {
+    "id": "c8da1686-4b75-41bb-b146-9b0449afaf96",
+    "name": "Russian",
+    "nativeName": "русский язык",
+    "code": "ru"
+  },
+  {
+    "id": "fe8cbde0-292a-495c-861d-2b529f67737b",
+    "name": "Slovak",
+    "nativeName": "slovenčina",
+    "code": "sk"
+  },
+  {
+    "id": "83cb8e59-02fd-41be-aaa5-0dc23af4710f",
+    "name": "Slovene",
+    "nativeName": "slovenščina",
+    "code": "sl"
+  },
+  {
+    "id": "84dde43e-aa64-4fb9-8976-1ff82aab6657",
+    "name": "Spanish; Castilian",
+    "nativeName": "español, castellano",
+    "code": "es"
+  },
+  {
+    "id": "ff1faba7-b22e-4c04-8553-b57a9127590a",
+    "name": "Swedish",
+    "nativeName": "svenska",
+    "code": "sv"
+  }
+]
